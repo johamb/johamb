@@ -1,2 +1,2 @@
 ### Hi there 👋
-/play vuvuzela
+/play rimshot
